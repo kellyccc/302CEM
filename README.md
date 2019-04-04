@@ -1,0 +1,2 @@
+# 302CEM
+pair assignment
